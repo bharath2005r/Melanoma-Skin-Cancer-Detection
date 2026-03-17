@@ -1,4 +1,4 @@
-# 🩺 Skin Cancer Detection using CNN + PCA + SVM
+# 🩺 Melanoma Skin Cancer Detection using CNN + PCA + SVM
 
 ## 🔍 Overview
 This project detects **skin cancer (benign vs malignant)** from dermoscopic images using a **hybrid deep learning approach** — combining **Convolutional Neural Networks (CNN)** for feature extraction and **Support Vector Machines (SVM)** for classification.
